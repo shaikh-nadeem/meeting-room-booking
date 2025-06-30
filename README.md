@@ -46,7 +46,7 @@ meeting-room-booking/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone [https://github.com/shaikh-nadeem/meeting-room-booking.git](https://github.com/shaikh-nadeem/meeting-room-booking.git)
+git clone https://github.com/shaikh-nadeem/meeting-room-booking.git
 cd meeting-room-booking
 ```
 
