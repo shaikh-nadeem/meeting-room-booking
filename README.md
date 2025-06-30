@@ -47,7 +47,7 @@ meeting-room-booking/
 
 ```bash
 git clone https://github.com/shaikh-nadeem/meeting-room-booking.git
-cd meeting-room-booking
+cd meeting-room
 ```
 
 ---
